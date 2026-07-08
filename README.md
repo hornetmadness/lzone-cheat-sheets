@@ -475,7 +475,7 @@ It is impossible to cover all important topics, so [lzone.de](https://lzone.de) 
 | [GCP Cheat Sheet](https://github.com/dennyzhang/cheatsheet-gcp-A4) | ⭐118 | 📓 Cheat Sheet | DevOps | 
 | [GDB Cheat Sheet](https://github.com/reveng007/GDB-Cheat-Sheet) | ⭐29 | 📓 Cheat Sheet | DevOps | 
 | [Generating Flamegraphs](https://github.com/brendangregg/FlameGraph) | ⭐19413 | 📄 Docs | DevOps | 
-| [Geo Data Science Book](https://github.com/gdsbook/book) | ⭐360 | 📕 Book | ML | 
+| [Geo Data Science Book](https://github.com/gdsbook/book) | ⭐363 | 📕 Book | ML | 
 | [Github Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) | ⭐57666 | 📓 Cheat Sheet | Programming | 
 | [Globbing Cheat Sheet](https://github.com/begin/globbing) | ⭐154 | 📓 Cheat Sheet | DevOps | 
 | [Google Cloud Guide](https://github.com/mikeroyal/Google-Cloud-Guide) | ⭐197 | 📓 Cheat Sheet | DevOps | 
@@ -485,14 +485,14 @@ It is impossible to cover all important topics, so [lzone.de](https://lzone.de) 
 | [How to secure a Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) | ⭐25940 | 📄 Docs | Security | 
 | [IMDB Data in the Terminal](https://github.com/vvijayan1/imdb_data_on_terminal) | ⭐7 | 💡 Tutorial | ML | 
 | [Interview Questions: 30s-of-code JS](https://github.com/30-seconds/30-seconds-of-interviews) |  | 📓 Cheat Sheet | Development | 
-| [Interview Questions: Android](https://github.com/amitshekhariitbhu/android-interview-questions) | ⭐12332 | 💬 Interview | ML | 
-| [Interview Questions: Data Science](https://github.com/alexeygrigorev/data-science-interviews) | ⭐10033 | 💬 Interview | ML | 
-| [Interview Questions: FAANG](https://github.com/ombharatiya/FAANG-Coding-Interview-Questions) | ⭐5103 | 💬 Interview | Development | 
-| [Interview Questions: Java](https://github.com/in28minutes/interview-guide) | ⭐311 | 💬 Interview | Development | 
-| [Interview Questions: Linux Sysadmin](https://github.com/chassing/linux-sysadmin-interview-questions) | ⭐5315 | 💬 Interview | DevOps | 
-| [Interview Questions: ML](https://github.com/Sroy20/machine-learning-interview-questions) | ⭐1642 | 💬 Interview | ML | 
-| [Interview Questions: System Design](https://github.com/shashank88/system_design) | ⭐9208 | 💬 Interview | Architecture | 
-| [Interview Questions: System Design and Architecture](https://github.com/puncsky/system-design-and-architecture) | ⭐3425 | 💬 Interview | Architecture | 
+| [Interview Questions: Android](https://github.com/amitshekhariitbhu/android-interview-questions) | ⭐12349 | 💬 Interview | ML | 
+| [Interview Questions: Data Science](https://github.com/alexeygrigorev/data-science-interviews) | ⭐10068 | 💬 Interview | ML | 
+| [Interview Questions: FAANG](https://github.com/ombharatiya/FAANG-Coding-Interview-Questions) | ⭐5428 | 💬 Interview | Development | 
+| [Interview Questions: Java](https://github.com/in28minutes/interview-guide) | ⭐310 | 💬 Interview | Development | 
+| [Interview Questions: Linux Sysadmin](https://github.com/chassing/linux-sysadmin-interview-questions) | ⭐5322 | 💬 Interview | DevOps | 
+| [Interview Questions: ML](https://github.com/Sroy20/machine-learning-interview-questions) | ⭐1646 | 💬 Interview | ML | 
+| [Interview Questions: System Design](https://github.com/shashank88/system_design) | ⭐9226 | 💬 Interview | Architecture | 
+| [Interview Questions: System Design and Architecture](https://github.com/puncsky/system-design-and-architecture) | ⭐3455 | 💬 Interview | Architecture | 
 | [JS Promise Cookbook](https://github.com/mattdesl/promise-cookbook) | ⭐1616 | 📕 Book | Development | 
 | [Jaeger Distributed Tracing](https://github.com/jaegertracing/documentation) | ⭐83 | 📄 Docs | DevOps | 
 | [Java 8 Tutorial](https://github.com/winterbe/java8-tutorial) | ⭐16734 | 📄 Docs | Programming | 
@@ -523,9 +523,9 @@ It is impossible to cover all important topics, so [lzone.de](https://lzone.de) 
 | [Learning freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | ⭐450757 | 💡 Tutorial | Programming | 
 | [Linux Kernel Docs](https://github.com/bryancandi/LinuxKernelDocs) | ⭐1 | 📄 Docs | Development | 
 | [Linux XDP Tutorial](https://github.com/xdp-project/xdp-tutorial) | ⭐2940 | 📄 Docs | Programming | 
-| [Little Go Book](https://github.com/karlseguin/the-little-go-book) | ⭐2328 | 📕 Book | Development | 
+| [Little Go Book](https://github.com/karlseguin/the-little-go-book) | ⭐2335 | 📕 Book | Development | 
 | [Little MongoDB Book](https://github.com/karlseguin/the-little-mongodb-book) | ⭐1491 | 📕 Book | Development | 
-| [Little Redis Book](https://github.com/karlseguin/the-little-redis-book) | ⭐1458 | 📕 Book | Development | 
+| [Little Redis Book](https://github.com/karlseguin/the-little-redis-book) | ⭐1459 | 📕 Book | Development | 
 | [MDN accessibility](https://github.com/mdn/content) | ⭐10729 | 📄 Docs | Web | 
 | [MDN api](https://github.com/mdn/content) | ⭐10729 | 📄 Docs | Web | 
 | [MDN css](https://github.com/mdn/content) | ⭐10729 | 📄 Docs | Web | 
@@ -555,7 +555,7 @@ It is impossible to cover all important topics, so [lzone.de](https://lzone.de) 
 | [MS Architecture Center](https://github.com/MicrosoftDocs/architecture-center) | ⭐1998 | 📄 Docs | Architecture | 
 | [MS Virtualization](https://github.com/MicrosoftDocs/Virtualization-Documentation) | ⭐1912 | 📄 Docs | DevOps | 
 | [Markdown Architecture Decision Records](https://github.com/adr/madr) | ⭐2172 | 📓 Cheat Sheet | Architecture | 
-| [Meta Checklist](https://github.com/huyingjie/Checklist-Checklist) | ⭐2945 | 📄 Docs | DevOps | 
+| [Meta Checklist](https://github.com/huyingjie/Checklist-Checklist) | ⭐2953 | 📄 Docs | DevOps | 
 | [Modern C++ Tutorial](https://github.com/changkun/modern-cpp-tutorial) | ⭐25558 | 📄 Docs | Programming | 
 | [Monitoring with Prometheus](https://github.com/psibi/prometheus) | ⭐5 | 📕 Book | DevOps | 
 | [Naming Cheat Sheet](https://github.com/kettanaito/naming-cheatsheet) | ⭐14199 | 📓 Cheat Sheet | Programming | 
@@ -628,11 +628,11 @@ It is impossible to cover all important topics, so [lzone.de](https://lzone.de) 
 | [eg Cheat Sheets](https://github.com/srsudar/eg) | ⭐2027 | 📓 Cheat Sheet | DevOps | 
 | [golang Cheat Sheet](https://github.com/a8m/golang-cheat-sheet) | ⭐8797 | 📓 Cheat Sheet | Programming | 
 | [k8s CKAD Tutorial](https://github.com/madhank93/learn-k8s-ckad) | ⭐28 | 💡 Tutorial | DevOps | 
-| [k8s Istio Tutorial](https://github.com/kelseyhightower/istio-ingress-tutorial) | ⭐322 | 💡 Tutorial | DevOps | 
-| [k8s NetworkPolicy Tutorial](https://github.com/networkpolicy/tutorial) | ⭐151 | 💡 Tutorial | DevOps | 
+| [k8s Istio Tutorial](https://github.com/kelseyhightower/istio-ingress-tutorial) | ⭐321 | 💡 Tutorial | DevOps | 
+| [k8s NetworkPolicy Tutorial](https://github.com/networkpolicy/tutorial) | ⭐153 | 💡 Tutorial | DevOps | 
 | [k8s Nomand Tutorial](https://github.com/kelseyhightower/nomad-on-kubernetes) | ⭐354 | 💡 Tutorial | DevOps | 
 | [k8s Tekton Tutorial](https://github.com/harbur/tekton-tutorial) | ⭐9 | 💡 Tutorial | DevOps | 
-| [k8s the hard way](https://github.com/kelseyhightower/kubernetes-the-hard-way) | ⭐48416 | 💡 Tutorial | DevOps | 
+| [k8s the hard way](https://github.com/kelseyhightower/kubernetes-the-hard-way) | ⭐48987 | 💡 Tutorial | DevOps | 
 | [nginx Admin Handbook](https://github.com/trimstray/nginx-admins-handbook) | ⭐14145 | 📄 Docs | DevOps | 
 | [nocomplexity Architecture Playbook](https://github.com/nocomplexity/ArchitecturePlaybook) | ⭐735 | 📄 Docs | Architecture | 
 | [reactnative.guide](https://github.com/react-made-native-easy/book) |  | 📕 Book | Development | 
