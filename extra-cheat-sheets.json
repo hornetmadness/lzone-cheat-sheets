@@ -498,9 +498,9 @@
     "filePattern": "^([^/]+)/README.md$",
     "category": "ML",
     "type": "Book",
-    "stars": 5029,
-    "forks": 2062,
-    "last_updated": "2026-07-15"
+    "stars": 5046,
+    "forks": 2060,
+    "last_updated": "2026-08-15"
   },
   "IMDB Data in the Terminal": {
     "github": "vvijayan1/imdb_data_on_terminal",
@@ -508,25 +508,25 @@
     "type": "Tutorial",
     "stars": 7,
     "forks": 0,
-    "last_updated": "2026-07-15"
+    "last_updated": "2026-08-15"
   },
   "System Design 101": {
     "github": "ByteByteGoHq/system-design-101",
     "filePattern": "^(README)\\.md$",
     "category": "DevOps",
     "type": "Interview",
-    "stars": 86000,
-    "forks": 9539,
-    "last_updated": "2026-07-15"
+    "stars": 87130,
+    "forks": 9688,
+    "last_updated": "2026-08-15"
   },
   "System Design Primer": {
     "github": "donnemartin/system-design-primer",
     "filePattern": "^(README.*)\\.md$",
     "category": "DevOps",
     "type": "Interview",
-    "stars": 357739,
-    "forks": 57218,
-    "last_updated": "2026-07-15"
+    "stars": 364006,
+    "forks": 57855,
+    "last_updated": "2026-08-15"
   },
   "Cloud Outages Index": {
     "github": "lwindolf/cloud-outages",
@@ -534,48 +534,48 @@
     "category": "DevOps",
     "stars": 3,
     "forks": 0,
-    "last_updated": "2026-07-15"
+    "last_updated": "2026-08-15"
   },
   "Learn To Cloud": {
     "github": "learntocloud/learn-to-cloud",
     "filePattern": "^docs/(.*)/README.md$",
     "type": "Tutorial",
     "category": "DevOps",
-    "stars": 5769,
-    "forks": 906,
-    "last_updated": "2026-07-15"
+    "stars": 5773,
+    "forks": 908,
+    "last_updated": "2026-08-15"
   },
   "Google Cloud Guide": {
     "github": "mikeroyal/Google-Cloud-Guide",
     "type": "Cheat Sheet",
     "category": "DevOps",
-    "stars": 203,
-    "forks": 62,
-    "last_updated": "2026-07-15"
+    "stars": 204,
+    "forks": 63,
+    "last_updated": "2026-08-15"
   },
   "Awesome Security": {
     "github": "zbetcheckin/Security_list",
     "type": "Awesome",
     "category": "Security",
-    "stars": 1876,
-    "forks": 348,
-    "last_updated": "2026-07-15"
+    "stars": 1882,
+    "forks": 349,
+    "last_updated": "2026-08-15"
   },
   "Awesome Cloud Security": {
     "github": "4ndersonLin/awesome-cloud-security",
     "type": "Awesome",
     "category": "Security",
-    "stars": 2469,
+    "stars": 2477,
     "forks": 372,
-    "last_updated": "2026-07-15"
+    "last_updated": "2026-08-15"
   },
   "Awesome AWS Security": {
     "github": "jassics/awesome-aws-security",
     "type": "Awesome",
     "category": "Security",
-    "stars": 1575,
+    "stars": 1581,
     "forks": 328,
-    "last_updated": "2026-07-15"
+    "last_updated": "2026-08-15"
   },
   "AWSCookbook Security": {
     "github": "AWSCookbook/Security",
@@ -584,15 +584,15 @@
     "category": "Security",
     "stars": 50,
     "forks": 44,
-    "last_updated": "2026-07-15"
+    "last_updated": "2026-08-15"
   },
   "Awesome k8s Security": {
     "github": "magnologan/awesome-k8s-security",
     "type": "Awesome",
     "category": "Security",
-    "stars": 2003,
-    "forks": 298,
-    "last_updated": "2026-07-15"
+    "stars": 2004,
+    "forks": 299,
+    "last_updated": "2026-08-15"
   },
   "Reverse Shells": {
     "github": "d4t4s3c/Offensive-Reverse-Shell-Cheat-Sheet",
@@ -604,77 +604,77 @@
     "filePattern": "^docs/(.+)\\.md$",
     "type": "Cheat Sheet",
     "category": "Security",
-    "stars": 1039,
-    "forks": 521,
-    "last_updated": "2026-07-15"
+    "stars": 1044,
+    "forks": 519,
+    "last_updated": "2026-08-15"
   },
   "Azure Powershell": {
     "github": "andreipintica/Azure-PowerShell-CheatSheet",
     "type": "Cheat Sheet",
     "category": "DevOps",
-    "stars": 119,
-    "forks": 152,
-    "last_updated": "2026-07-15"
+    "stars": 120,
+    "forks": 153,
+    "last_updated": "2026-08-15"
   },
   "Awesome Azure Architecture": {
     "github": "lukemurraynz/awesome-azure-architecture",
     "type": "Awesome",
     "category": "Cloud",
-    "stars": 1713,
+    "stars": 1720,
     "forks": 355,
-    "last_updated": "2026-07-15"
+    "last_updated": "2026-08-15"
   },
   "Azure Monitoring Baseline": {
     "github": "Azure/azure-monitor-baseline-alerts",
     "filePattern": "^docs/content/(.+)\\.md$",
     "type": "Documentation",
     "category": "Cloud",
-    "stars": 313,
-    "forks": 341,
-    "last_updated": "2026-07-15"
+    "stars": 317,
+    "forks": 344,
+    "last_updated": "2026-08-15"
   },
   "Azure Security": {
     "github": "MicrosoftDocs/security",
     "filePattern": "^(.+)\\.md$",
     "type": "Documentation",
     "category": "Security",
-    "stars": 261,
-    "forks": 180,
-    "last_updated": "2026-07-15"
+    "stars": 264,
+    "forks": 181,
+    "last_updated": "2026-08-15"
   },
   "MS Architecture Center": {
     "github": "MicrosoftDocs/architecture-center",
     "filePattern": "^docs/(.+)\\.md$",
     "type": "Documentation",
     "category": "Architecture",
-    "stars": 2007,
-    "forks": 1825,
-    "last_updated": "2026-07-15"
+    "stars": 2014,
+    "forks": 1832,
+    "last_updated": "2026-08-15"
   },
   "Documentation Powershell": {
     "github": "MicrosoftDocs/PowerShell-Docs",
     "filePattern": "^reference/docs-conceptual/(.+)\\.md$",
     "type": "Documentation",
     "category": "DevOps",
-    "stars": 2505,
-    "forks": 1707,
-    "last_updated": "2026-07-15"
+    "stars": 2519,
+    "forks": 1711,
+    "last_updated": "2026-08-15"
   },
   "MS Virtualization": {
     "github": "MicrosoftDocs/Virtualization-Documentation",
     "type": "Documentation",
     "category": "DevOps",
-    "stars": 1922,
-    "forks": 1518,
-    "last_updated": "2026-07-15"
+    "stars": 1921,
+    "forks": 1511,
+    "last_updated": "2026-08-15"
   },
   "Architecture Books": {
     "github": "mhadidg/software-architecture-books",
     "type": "Awesome",
     "category": "Architecture",
-    "stars": 11093,
-    "forks": 868,
-    "last_updated": "2026-07-15"
+    "stars": 11292,
+    "forks": 888,
+    "last_updated": "2026-08-15"
   },
   "Architecture Enterprise Patterns": {
     "github": "chanakaudaya/solution-architecture-patterns",
