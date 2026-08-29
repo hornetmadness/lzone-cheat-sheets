@@ -862,114 +862,114 @@
     "filePattern": "^(.+)\\.md$",
     "type": "Documentation",
     "category": "DevOps",
-    "stars": 4646,
-    "forks": 3102,
-    "last_updated": "2026-07-29"
+    "stars": 4679,
+    "forks": 3113,
+    "last_updated": "2026-08-29"
   },
   "Ansible Tutorial": {
     "github": "leucos/ansible-tuto",
     "filePattern": "^(.+)\\.md$",
     "type": "Documentation",
     "category": "DevOps",
-    "stars": 2296,
+    "stars": 2294,
     "forks": 705,
-    "last_updated": "2026-07-29"
+    "last_updated": "2026-08-29"
   },
   "SAP Tutorials": {
     "github": "sap-tutorials/Tutorials",
     "filePattern": "^tutorials/(.+)\\.md$",
     "type": "Documentation",
     "category": "DevOps",
-    "stars": 895,
-    "forks": 844,
-    "last_updated": "2026-07-29"
+    "stars": 903,
+    "forks": 843,
+    "last_updated": "2026-08-29"
   },
   "Linux XDP Tutorial": {
     "github": "xdp-project/xdp-tutorial",
     "filePattern": "^(.+)\\.md$",
     "type": "Documentation",
     "category": "Programming",
-    "stars": 2957,
-    "forks": 662,
-    "last_updated": "2026-07-29"
+    "stars": 2963,
+    "forks": 666,
+    "last_updated": "2026-08-29"
   },
   "Bayesian Modelling in Python": {
     "github": "markdregan/Bayesian-Modelling-in-Python",
     "filePattern": "^(README)\\.md$",
     "type": "Documentation",
     "category": "Programming",
-    "stars": 2504,
+    "stars": 2501,
     "forks": 405,
-    "last_updated": "2026-07-29"
+    "last_updated": "2026-08-29"
   },
   "Docker Getting Started": {
     "github": "docker/getting-started",
     "filePattern": "^docs/tutorial/(.+).md",
     "type": "Cheat Sheet",
     "category": "DevOps",
-    "stars": 3076,
-    "forks": 6365,
-    "last_updated": "2026-07-29"
+    "stars": 3083,
+    "forks": 6359,
+    "last_updated": "2026-08-29"
   },
   "Documentation Docker": {
     "github": "docker/docs",
     "type": "Documentation",
     "category": "DevOps",
-    "stars": 4619,
-    "forks": 8411,
-    "last_updated": "2026-07-29"
+    "stars": 4642,
+    "forks": 8443,
+    "last_updated": "2026-08-29"
   },
   "Docker Cheat Sheet": {
     "github": "wsargent/docker-cheat-sheet",
     "category": "DevOps",
     "type": "Cheat Sheet",
-    "stars": 22537,
-    "forks": 4608,
-    "last_updated": "2026-07-29"
+    "stars": 22545,
+    "forks": 4607,
+    "last_updated": "2026-08-29"
   },
   "Python pdb Tutorial": {
     "github": "spiside/pdb-tutorial",
     "filePattern": "^(README)\\.md$",
     "category": "DevOps",
     "type": "Cheat Sheet",
-    "stars": 915,
-    "forks": 111,
-    "last_updated": "2026-07-29"
+    "stars": 924,
+    "forks": 115,
+    "last_updated": "2026-08-29"
   },
   "GDB Cheat Sheet": {
     "github": "reveng007/GDB-Cheat-Sheet",
     "category": "DevOps",
     "type": "Cheat Sheet",
-    "stars": 30,
+    "stars": 31,
     "forks": 8,
-    "last_updated": "2026-07-29"
+    "last_updated": "2026-08-29"
   },
   "DevSecOps SLSA Framework": {
     "github": "slsa-framework/slsa",
     "filePattern": "^(.+)\\.md$",
     "category": "DevOps",
     "type": "Documentation",
-    "stars": 1896,
-    "forks": 286,
-    "last_updated": "2026-07-29"
+    "stars": 1918,
+    "forks": 291,
+    "last_updated": "2026-08-29"
   },
   "DevSecOps Maturity Model": {
     "github": "devsecopsmaturitymodel/DevSecOps-MaturityModel",
     "filePattern": "^(.+)\\.md$",
     "category": "DevOps",
     "type": "Documentation",
-    "stars": 582,
+    "stars": 583,
     "forks": 353,
-    "last_updated": "2026-07-29"
+    "last_updated": "2026-08-29"
   },
   "Network Segmentation Cheat Sheet": {
     "github": "sergiomarotco/Network-segmentation-cheat-sheet",
     "filePattern": "^(.+)\\.md$",
     "category": "DevOps",
     "type": "Cheat Sheet",
-    "stars": 3485,
+    "stars": 3492,
     "forks": 284,
-    "last_updated": "2026-07-29"
+    "last_updated": "2026-08-29"
   },
   "Kafka Architecture": {
     "github": "anhthii/kafka-notes",
@@ -977,7 +977,7 @@
     "type": "Documentation",
     "stars": 126,
     "forks": 65,
-    "last_updated": "2026-07-29"
+    "last_updated": "2026-08-29"
   },
   "Databases Introduction": {
     "github": "anhthii/database-notes",
@@ -986,16 +986,16 @@
     "type": "Book",
     "stars": 62,
     "forks": 22,
-    "last_updated": "2026-07-29"
+    "last_updated": "2026-08-29"
   },
   "ElasticSearch Examples": {
     "github": "elastic/examples",
     "filePattern": "^(.+)\\.md$",
     "category": "DevOps",
     "type": "Documentation",
-    "stars": 2650,
-    "forks": 1214,
-    "last_updated": "2026-07-29"
+    "stars": 2649,
+    "forks": 1210,
+    "last_updated": "2026-08-29"
   },
   "ElasticSearch Architecture": {
     "github": "gose/elastic-architectures",
@@ -1011,31 +1011,31 @@
     "type": "Documentation",
     "stars": 25,
     "forks": 2,
-    "last_updated": "2026-07-29"
+    "last_updated": "2026-08-29"
   },
   "Architecture Domain Driven Hexagon": {
     "github": "Sairyss/domain-driven-hexagon",
     "category": "Architecture",
     "type": "Documentation",
-    "stars": 14818,
-    "forks": 1559,
-    "last_updated": "2026-07-29"
+    "stars": 14894,
+    "forks": 1561,
+    "last_updated": "2026-08-29"
   },
   "Architecture Microservices": {
     "github": "rodrigorodrigues/microservices-design-patterns",
     "category": "Architecture",
     "type": "Documentation",
-    "stars": 186,
-    "forks": 69,
-    "last_updated": "2026-07-29"
+    "stars": 187,
+    "forks": 70,
+    "last_updated": "2026-08-29"
   },
   "DDD by Examples": {
     "github": "ddd-by-examples/library",
     "category": "Architecture",
     "type": "Documentation",
-    "stars": 5832,
-    "forks": 827,
-    "last_updated": "2026-07-29"
+    "stars": 5850,
+    "forks": 832,
+    "last_updated": "2026-08-29"
   },
   "DDD Starter Modelling": {
     "github": "ddd-crew/ddd-starter-modelling-process",
