@@ -267,18 +267,18 @@
     "filePattern": "^en/(go)\\.md$",
     "category": "Development",
     "type": "Book",
-    "stars": 2339,
+    "stars": 2344,
     "forks": 277,
-    "last_updated": "2026-08-08"
+    "last_updated": "2026-09-08"
   },
   "Little MongoDB Book": {
     "github": "karlseguin/the-little-mongodb-book",
     "filePattern": "^en/(.+).markdown$",
     "category": "Development",
     "type": "Book",
-    "stars": 1488,
-    "forks": 348,
-    "last_updated": "2026-08-08"
+    "stars": 1487,
+    "forks": 347,
+    "last_updated": "2026-09-08"
   },
   "Little Redis Book": {
     "github": "karlseguin/the-little-redis-book",
@@ -287,7 +287,7 @@
     "type": "Book",
     "stars": 1460,
     "forks": 485,
-    "last_updated": "2026-08-08"
+    "last_updated": "2026-09-08"
   },
   "30s-of-code JS": {
     "github": "30-seconds/30-seconds-of-code",
@@ -332,78 +332,78 @@
     "category": "DevOps",
     "stars": 221,
     "forks": 299,
-    "last_updated": "2026-08-08"
+    "last_updated": "2026-09-08"
   },
   "Geo Data Science Book": {
     "github": "gdsbook/book",
     "filePattern": "^notebooks/(.+)\\.md$",
     "category": "ML",
     "type": "Book",
-    "stars": 363,
+    "stars": 366,
     "forks": 104,
-    "last_updated": "2026-08-08"
+    "last_updated": "2026-09-08"
   },
   "Interview Questions: Android": {
     "github": "amitshekhariitbhu/android-interview-questions",
     "filePattern": "^(README)\\.md$",
     "category": "ML",
     "type": "Interview",
-    "stars": 12361,
+    "stars": 12367,
     "forks": 2386,
-    "last_updated": "2026-08-08"
+    "last_updated": "2026-09-08"
   },
   "Interview Questions: Data Science": {
     "github": "alexeygrigorev/data-science-interviews",
     "filePattern": "^(.+)\\.md$",
     "category": "ML",
     "type": "Interview",
-    "stars": 10104,
+    "stars": 10139,
     "forks": 2154,
-    "last_updated": "2026-08-08"
+    "last_updated": "2026-09-08"
   },
   "Interview Questions: Linux Sysadmin": {
     "github": "chassing/linux-sysadmin-interview-questions",
     "filePattern": "^(README)\\.md$",
     "category": "DevOps",
     "type": "Interview",
-    "stars": 5327,
-    "forks": 1210,
-    "last_updated": "2026-08-08"
+    "stars": 5335,
+    "forks": 1215,
+    "last_updated": "2026-09-08"
   },
   "Interview Questions: FAANG": {
     "github": "ombharatiya/FAANG-Coding-Interview-Questions",
     "filePattern": "^(.+)\\.md$",
     "category": "Development",
     "type": "Interview",
-    "stars": 5679,
-    "forks": 1383,
-    "last_updated": "2026-08-08"
+    "stars": 5898,
+    "forks": 1415,
+    "last_updated": "2026-09-08"
   },
   "Interview Questions: ML": {
     "github": "Sroy20/machine-learning-interview-questions",
     "filePattern": "^(.+)\\.md$",
     "category": "ML",
     "type": "Interview",
-    "stars": 1656,
+    "stars": 1664,
     "forks": 398,
-    "last_updated": "2026-08-08"
+    "last_updated": "2026-09-08"
   },
   "Interview Questions: System Design": {
     "github": "shashank88/system_design",
     "filePattern": "^(.+)\\.md$",
     "category": "Architecture",
     "type": "Interview",
-    "stars": 9241,
-    "forks": 2487,
-    "last_updated": "2026-08-08"
+    "stars": 9250,
+    "forks": 2488,
+    "last_updated": "2026-09-08"
   },
   "Interview Questions: System Design and Architecture": {
     "github": "puncsky/system-design-and-architecture",
     "category": "Architecture",
     "type": "Interview",
-    "stars": 3490,
-    "forks": 686,
-    "last_updated": "2026-08-08"
+    "stars": 3564,
+    "forks": 692,
+    "last_updated": "2026-09-08"
   },
   "Interview Questions: Java": {
     "github": "in28minutes/interview-guide",
@@ -412,16 +412,16 @@
     "type": "Interview",
     "stars": 309,
     "forks": 231,
-    "last_updated": "2026-08-08"
+    "last_updated": "2026-09-08"
   },
   "Meta Checklist": {
     "github": "huyingjie/Checklist-Checklist",
     "filePattern": "^(.+)\\.md$",
     "category": "DevOps",
     "type": "Documentation",
-    "stars": 2960,
+    "stars": 2967,
     "forks": 138,
-    "last_updated": "2026-08-08"
+    "last_updated": "2026-09-08"
   },
   "Documentation Helm": {
     "github": "helm/helm-www",
@@ -429,26 +429,26 @@
     "category": "DevOps",
     "type": "Documentation",
     "stars": 229,
-    "forks": 617,
-    "last_updated": "2026-08-08"
+    "forks": 623,
+    "last_updated": "2026-09-08"
   },
   "k8s the hard way": {
     "github": "kelseyhightower/kubernetes-the-hard-way",
     "filePattern": "^docs/(.+)\\.md$",
     "category": "DevOps",
     "type": "Tutorial",
-    "stars": 49402,
-    "forks": 15813,
-    "last_updated": "2026-08-08"
+    "stars": 49682,
+    "forks": 15851,
+    "last_updated": "2026-09-08"
   },
   "k8s NetworkPolicy Tutorial": {
     "github": "networkpolicy/tutorial",
     "filePattern": "^(README)\\.md$",
     "category": "DevOps",
     "type": "Tutorial",
-    "stars": 153,
+    "stars": 154,
     "forks": 33,
-    "last_updated": "2026-08-08"
+    "last_updated": "2026-09-08"
   },
   "k8s Istio Tutorial": {
     "github": "kelseyhightower/istio-ingress-tutorial",
@@ -457,7 +457,7 @@
     "type": "Tutorial",
     "stars": 321,
     "forks": 54,
-    "last_updated": "2026-08-08"
+    "last_updated": "2026-09-08"
   },
   "k8s Nomand Tutorial": {
     "github": "kelseyhightower/nomad-on-kubernetes",
@@ -466,7 +466,7 @@
     "type": "Tutorial",
     "stars": 355,
     "forks": 49,
-    "last_updated": "2026-08-08"
+    "last_updated": "2026-09-08"
   },
   "k8s Tekton Tutorial": {
     "github": "harbur/tekton-tutorial",
@@ -475,7 +475,7 @@
     "type": "Tutorial",
     "stars": 9,
     "forks": 13,
-    "last_updated": "2026-08-08"
+    "last_updated": "2026-09-08"
   },
   "Tekton 101": {
     "github": "dewan-ahmed/Tekton101",
@@ -483,7 +483,7 @@
     "type": "Tutorial",
     "stars": 9,
     "forks": 26,
-    "last_updated": "2026-08-08"
+    "last_updated": "2026-09-08"
   },
   "k8s CKAD Tutorial": {
     "github": "madhank93/learn-k8s-ckad",
@@ -491,7 +491,7 @@
     "type": "Tutorial",
     "stars": 28,
     "forks": 13,
-    "last_updated": "2026-08-08"
+    "last_updated": "2026-09-08"
   },
   "Python Machine Learning": {
     "github": "rasbt/python-machine-learning-book-3rd-edition",
